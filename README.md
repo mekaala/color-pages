@@ -2,6 +2,8 @@
 
 This is my first application using Next.js. I am using this initial project to start my skills in Next.js.
 
+Source of tutorial: https://welearncode.com/beginners-guide-nextjs/
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
